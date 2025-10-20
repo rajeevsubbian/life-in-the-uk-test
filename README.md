@@ -314,13 +314,13 @@ Life in the United Kingdom (3rd edition)
 
 | Proportion | Religion | Details |
 | --- | --- | --- |
-| 70%  | Christian |
+| 46%  | Christian |
 | 4%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
 | 2%    | Hindu | celebrates Diwali |
 | 1%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
 | 0.5% | Jews/Buddhist | Hannuka is a Jew celebration in November or December and lasts 8 days |
 | 2%    | Other |
-| 21%  | No religion |
+| 37%  | No religion |
 
 ### Religion facts ###
 
